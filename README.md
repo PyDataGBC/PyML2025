@@ -7,6 +7,12 @@
 
 ![book cover](https://images.manning.com/264/352/resize/book/a/2a49d38-96e5-4bf7-8555-57f689c52ebf/Chollet-2ed-HI.png)
 
+## Google Colab with GPU
+Some of our labs this semester will be painfully slow if run without a GPU. The easiest way to get access to a GPU accelerated Jupyter notebook is to enable the `T4 GPU runtime` on Google Colab:
+
+1. In the menu bar click `Runtime` then `Change runtime type`
+1. Select `T4 GPU` and click `Save`
+
 ## Videos
 - [Neural networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by Grant Sanderson of 3blue1brown.com
 
