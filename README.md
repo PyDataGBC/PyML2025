@@ -15,7 +15,8 @@ Some of our labs this semester will be painfully slow if run without a GPU. The 
 
 ## Videos
 - [Neural networks playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) by Grant Sanderson of 3blue1brown.com
-- [François Chollet (the book author) interviewed by Dwarkesh Patel in June 2024](https://www.youtube.com/watch?v=UakqL6Pj9xo)
+- [François Chollet (author of Kras and the book we use) interviewed by Dwarkesh Patel in June 2024](https://www.youtube.com/watch?v=UakqL6Pj9xo)
+- [François Chollet and Lex Fridman discussing the History of Keras and TensorFlow](https://www.youtube.com/watch?v=44tFKZhPyP0)
 
 ## Useful links
 - [Repo for the previous semester](https://github.com/kamrik/PyData2024)
