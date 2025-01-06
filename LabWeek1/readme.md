@@ -6,7 +6,7 @@ To run the notebook:
 
 <br>
 
-<img src="open_notebook.png" alt="Upload Notebook" width="500">
+<img src="open_notebook.png" alt="Upload Notebook" width="600">
 
 
 ### Saving and Downloading Your Notebook
