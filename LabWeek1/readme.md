@@ -1,7 +1,7 @@
 ### Running the Notebook
 
 To run the notebook:
-1. Open [Google Colab](https://colab.research.google.com/).
+1. [Google Colab](https://colab.research.google.com/) (Right-click and select "Open link in new tab").
 2. Upload the notebook by following the steps illustrated in the image below.
 
 <br>
